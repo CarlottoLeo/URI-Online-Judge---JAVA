@@ -4,7 +4,6 @@ import java.io.IOException;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-
 public class Uri1002 {
 	 private static Scanner scan;
 
